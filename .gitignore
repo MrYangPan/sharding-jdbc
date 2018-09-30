@@ -27,3 +27,8 @@ hs_err_pid*
 /sharding-precise/*.iml
 /sharding-range/*.iml
 /sharding-rw-splitting/*.iml
+/sharding-complex/*.iml
+/sharding-inline/*.iml
+/sharding-precise/*.iml
+/sharding-range/*.iml
+/sharding-rw-splitting/*.iml
